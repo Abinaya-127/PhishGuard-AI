@@ -67,6 +67,7 @@ These are project-defined feature calculations and may differ from the original 
 
 📁 Project Structure
 
+```text
 PhishGuard-AI/
 │
 ├── data/
@@ -89,6 +90,7 @@ PhishGuard-AI/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ⚙️ Installation and Setup
 
