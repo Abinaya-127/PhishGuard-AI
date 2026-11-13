@@ -6,6 +6,10 @@ PhishGuard AI is a machine-learning-based cybersecurity project designed to iden
 
 The system analyzes URL characteristics using feature extraction and machine learning algorithms to help users recognize suspicious website links.
 
+🚀 Live Demo
+
+Try PhishGuard AI here: [Launch Application](https://phishguard-ai-6gryhasq2jcndn8sscwqve.streamlit.app/)
+
 🎯 Objectives
 
 - Detect potentially phishing URLs.
